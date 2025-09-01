@@ -162,16 +162,6 @@ Contributions are welcome! Here's how you can help:
 4. **Test with different PDF formats**
 5. **Submit a pull request**
 
-### Guidelines
-- Test with various PDF layouts
-- Follow PEP 8 for Python code
-- Add comments for coordinate calculations
-- Include sample PDFs in tests (if possible)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - **Tesseract OCR** - Google's open-source OCR engine
@@ -182,4 +172,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**⚠️ Privacy Note**: Ensure you have proper authorization before processing any documents containing personal information. This tool is designed for legitimate data extraction purposes only.
+**⚠️ Privacy Note**: Ensure you have proper authorization before processing any documents containing personal information. This tool is designed for legitimate data extraction purposes only, specific to CHRIST(Deemed to be University).
